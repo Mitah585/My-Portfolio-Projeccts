@@ -1,4 +1,4 @@
--- VALIDATE DATA TRANSFER
+-- Cleaning Data
 
 --CHECK FOR DUPLICATES
 SELECT ride_id, COUNT(*) 
